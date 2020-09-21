@@ -6,3 +6,7 @@ logs/
 
 target/
 
+.classpath
+
+.project
+
