@@ -23,6 +23,6 @@ public class App
         LOG.error(message + " Will Be Printed On Error");
         LOG.fatal(message + " Will Be Printed On Fatal");
         LOG.info("Appending string: {}.", message );
-    	System.out.println( "Hello World! Good Morning!" );
+    	System.out.println( "Hello World!" );
     }
 }
